@@ -1,0 +1,9 @@
+[skype]
+username =
+password =
+conversationId = #ex. 19:cbc230b678e04f6d90e543da85df828c@thread.skype
+
+[discord]
+token = #discord token
+guilds = #guilds denoted by space
+channels = #channels denoted by space
