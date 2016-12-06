@@ -1,19 +1,17 @@
-# skype-irc [![NPM version](https://badge.fury.io/js/skype-irc.svg)](https://npmjs.org/package/skype-irc) [![Build Status](https://travis-ci.org/seanc/skype-irc.svg?branch=master)](https://travis-ci.org/seanc/skype-irc)
+# bridge
 
-> Skype to IRC bidirectional bridge
-
-## Installation
-
-```sh
-$ npm install --save skype-irc
-```
+> Multi-platform message bridge
 
 ## Usage
 
-```js
-var skypeIrc = require('skype-irc');
-skypeIrc();
+```shell
+$ git clone
+$ yarn # or npm install
+$ node lib/start
 ```
+
+## Note
+This is not finished.
 
 ## License
 
