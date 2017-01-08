@@ -7,3 +7,8 @@ conversationId = #ex. 19:cbc230b678e04f6d90e543da85df828c@thread.skype
 token = #discord token
 guilds = #guilds denoted by space
 channels = #channels denoted by space
+
+[irc]
+host = #server ip/hostname
+nick = #nickname
+channels = #channels without hashtag denoted by space
