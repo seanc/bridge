@@ -12,3 +12,4 @@ channels = #channels denoted by space
 host = #server ip/hostname
 nick = #nickname
 channels = #channels without hashtag denoted by space
+webhook = #webhook url
